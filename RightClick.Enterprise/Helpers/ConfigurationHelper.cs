@@ -1,6 +1,6 @@
 ﻿//------------------------------------------------------------------------------------------------- 
-// <copyright file="ConfigurationHelper.cs" company="PSP">
-//  Copyright (c) PSP. All rights reserved.
+// <copyright file="ConfigurationHelper.cs" company="Right Click Development">
+//  Copyright (c) Right Click Development. All rights reserved.
 // </copyright>
 //-------------------------------------------------------------------------------------------------
 

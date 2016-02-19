@@ -1,6 +1,6 @@
 ﻿//------------------------------------------------------------------------------------------------- 
-// <copyright file="ConvertHelper.cs" company="PSP">
-//  Copyright (c) PSP. All rights reserved.
+// <copyright file="ConvertHelper.cs" company="Right Click Development">
+//  Copyright (c) Right Click Development. All rights reserved.
 // </copyright>
 //-------------------------------------------------------------------------------------------------
 

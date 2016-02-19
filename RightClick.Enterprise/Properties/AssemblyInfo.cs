@@ -1,6 +1,6 @@
 ﻿//------------------------------------------------------------------------------------------------- 
-// <copyright file="AssemblyInfo.cs" company="PSP">
-//  Copyright (c) PSP. All rights reserved.
+// <copyright file="AssemblyInfo.cs" company="Right Click Development">
+//  Copyright (c) Right Click Development. All rights reserved.
 // </copyright>
 //-------------------------------------------------------------------------------------------------
 using System.Reflection;
@@ -13,7 +13,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("RightClick.Enterprise")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Right Click Development")]
 [assembly: AssemblyProduct("RightClick.Enterprise")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
